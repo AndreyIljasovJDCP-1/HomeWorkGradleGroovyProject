@@ -1,0 +1,5 @@
+rootProject.name = 'HomeworkGradleGroovy'
+include 'db'
+include 'api'
+include 'service'
+
