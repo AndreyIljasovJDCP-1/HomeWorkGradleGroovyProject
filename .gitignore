@@ -6,7 +6,6 @@ out/
 target/
 *.txt
 *.class
-*.jar
 *.war
 *.ear
 bin/**
@@ -15,8 +14,6 @@ gen/**
 .gradle/
 build/
 bin/
-gradle-app.setting
-gradle-wrapper.properties
-gradlew
-gradlew.bat
+
+
 
